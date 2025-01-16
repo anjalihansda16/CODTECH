@@ -1,5 +1,3 @@
-View dashborad [here.]([URL](https://public.tableau.com/app/profile/anjali.hansda/viz/AppMaarketDynamics/MarketDynamics))
-
 ## Business Scenario: Android App Market Dynamics Analysis
 
 **Company Background:**  
